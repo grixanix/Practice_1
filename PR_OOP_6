@@ -1,6 +1,6 @@
 
 //Задание 1.
-//Написать тестовый класс, который создает массив класса Student и сортирует массив iDNumber.
+//Написать тестовый класс, который создает массив класса Student и сортирует массив iDNumber.
 
 public class Main {
     public static void main(String[] args) {
